@@ -14,11 +14,9 @@
 <br/>
 
 
-<br/>
 
-### 🌌 Featured Project
+### 🚧 Currently Working On
 
-<table>
   <tr>
     <td width="100%">
       <b>🌊 <a href="https://github.com/sabiluu/SIGAB">SIGAB — Siaga Banjir Baureno</a></b>
@@ -32,7 +30,6 @@
       <code>Vite</code>
     </td>
   </tr>
-</table>
 
 
 <!--
