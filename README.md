@@ -11,6 +11,14 @@
 ### 🌙 A little reminder
 
 > *“The night is darkest just before the stars begin to shine.”*
+>
+> <br/>
+### 🌌 Featured Project
+> ### 🌊 [SIGAB — Siaga Banjir Baureno](https://github.com/sabiluu/SIGAB)
+> Platform mitigasi & peringatan dini bencana banjir real-time dengan integrasi data debit sungai, curah hujan Open-Meteo, dan navigasi evakuasi warga berbasis Leaflet GIS.
+> 
+> `React 19` &bull; `FastAPI` &bull; `Python` &bull; `Leaflet` &bull; `WebSockets` &bull; `Vite`
+<br/>
 
 
 <!--
