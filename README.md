@@ -16,10 +16,23 @@
 
 <br/>
 ### 🌌 Sedang Dikerjakan (Featured Project)
-> ### 🌊 [SIGAB — Siaga Banjir Baureno](https://github.com/sabiluu/SIGAB)
-> Platform mitigasi & peringatan dini bencana banjir real-time dengan integrasi data debit sungai, curah hujan Open-Meteo, dan navigasi evakuasi warga berbasis Leaflet GIS.
-> 
-> `React 19` &bull; `FastAPI` &bull; `Python` &bull; `Leaflet` &bull; `WebSockets` &bull; `Vite`
+<table>
+  <tr>
+    <td>
+      <h3>🌊 <a href="https://github.com/sabiluu/SIGAB">SIGAB — Siaga Banjir Baureno</a></h3>
+      <p>Platform mitigasi &amp; peringatan dini bencana banjir real-time dengan integrasi data debit sungai, curah hujan Open-Meteo, dan navigasi evakuasi warga berbasis Leaflet GIS.</p>
+      <p>
+        <b>Tech Stack:</b> 
+        <code>React 19</code> • 
+        <code>FastAPI</code> • 
+        <code>Python</code> • 
+        <code>Leaflet</code> • 
+        <code>WebSockets</code> • 
+        <code>Vite</code>
+      </p>
+    </td>
+  </tr>
+</table>
 <br/>
 
 
