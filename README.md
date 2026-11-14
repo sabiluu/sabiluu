@@ -14,19 +14,6 @@
 <br/>
 <br/>
 
-<p align="center">
-  <img src="./banner.svg" alt="Aesthetic night sky with moon and stars" width="100%">
-</p>
-
-<h1 align="left">✨ Hello, I'm Sabiluu</h1>
-
-<p align="left">
-  <em>Welcome to my little corner of the internet 🌙</em>
-</p>
-
-### 🌙 A little reminder
-
-> *“The night is darkest just before the stars begin to shine.”*
 
 <br/>
 
