@@ -1,4 +1,19 @@
-## Hi there 👋
+<img src="./banner.svg" alt="Aesthetic night sky with moon and stars" width="100%">
+</p>
+
+<h1 align="center">✨ Hello, I'm Sabilu</h1>
+<h1 align="left">✨ Hello, I'm Sabiluu</h1>
+
+<p align="center">
+<em>Welcome to my little corner of the internet 🌙</em>
+@@ -14,25 +14,9 @@
+</a>
+</p>
+
+### 🌙 A little reminder
+
+> *“The night is darkest just before the stars begin to shine.”*
+
 
 <!--
 **sabiluu/sabiluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
