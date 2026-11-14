@@ -5,7 +5,6 @@
 
 <p align="center">
 <em>Welcome to my little corner of the internet 🌙</em>
-@@ -14,25 +14,9 @@
 </a>
 </p>
 
