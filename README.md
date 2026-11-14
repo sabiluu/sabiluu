@@ -1,7 +1,6 @@
 <img src="./banner.svg" alt="Aesthetic night sky with moon and stars" width="100%">
 </p>
 
-<h1 align="center">✨ Hello, I'm Sabilu</h1>
 <h1 align="left">✨ Hello, I'm Sabiluu</h1>
 
 <p align="center">
