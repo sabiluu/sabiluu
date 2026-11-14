@@ -14,26 +14,39 @@
 <br/>
 <br/>
 
+<p align="center">
+  <img src="./banner.svg" alt="Aesthetic night sky with moon and stars" width="100%">
+</p>
+
+<h1 align="left">✨ Hello, I'm Sabiluu</h1>
+
+<p align="left">
+  <em>Welcome to my little corner of the internet 🌙</em>
+</p>
+
+### 🌙 A little reminder
+
+> *“The night is darkest just before the stars begin to shine.”*
+
 <br/>
-### 🌌 Sedang Dikerjakan (Featured Project)
+
+### 🌌 Featured Project
+
 <table>
   <tr>
-    <td>
-      <h3>🌊 <a href="https://github.com/sabiluu/SIGAB">SIGAB — Siaga Banjir Baureno</a></h3>
+    <td width="100%">
+      <b>🌊 <a href="https://github.com/sabiluu/SIGAB">SIGAB — Siaga Banjir Baureno</a></b>
       <p>Platform mitigasi &amp; peringatan dini bencana banjir real-time dengan integrasi data debit sungai, curah hujan Open-Meteo, dan navigasi evakuasi warga berbasis Leaflet GIS.</p>
-      <p>
-        <b>Tech Stack:</b> 
-        <code>React 19</code> • 
-        <code>FastAPI</code> • 
-        <code>Python</code> • 
-        <code>Leaflet</code> • 
-        <code>WebSockets</code> • 
-        <code>Vite</code>
-      </p>
+      <b>Tech Stack:</b> 
+      <code>React 19</code> • 
+      <code>FastAPI</code> • 
+      <code>Python</code> • 
+      <code>Leaflet</code> • 
+      <code>WebSockets</code> • 
+      <code>Vite</code>
     </td>
   </tr>
 </table>
-<br/>
 
 
 <!--
