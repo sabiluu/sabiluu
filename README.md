@@ -8,13 +8,6 @@
 </a>
 </p>
 
-### 🌙 A little reminder
-
-> *“The night is darkest just before the stars begin to shine.”*
-<br/>
-
-
-
 ### 🚧 Currently Working On
 
 > ### 🌊 [SIGAB — Siaga Banjir Baureno](https://github.com/sabiluu/SIGAB)
